@@ -1,7 +1,7 @@
 # Currículo Virtual - Ester Borba
 
 Este é o meu currículo virtual desenvolvido em HTML, CSS e JavaScript, com modo claro/escuro, projetos, certificados e contatos.
-
+link de acesso : https://esterborba0407.github.io/meu-curriculo-/
 ---
 
 ## Sobre Mim
